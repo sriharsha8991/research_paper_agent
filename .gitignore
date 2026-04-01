@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.env
+data/papers_raw/
+data/parsed/
+data/knowledge_store/
+data/memory/
+data/intermediate/
+data/cache/
+data/output/
+data/latex/figures/
+*.pdf
+venv/
